@@ -2,7 +2,7 @@
 // Columbus State Community College
 // CSCI 2469 - Autumn Semester 2019
 // Assignment: Exercise 2
-// Programmer: your name here
+// Programmer: Arkivious Fischer
 // ===================================
 
 
